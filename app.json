@@ -1,0 +1,26 @@
+{
+  "id": "356b8b86-18d1-4a90-b7bb-06c430bdc6b0",
+  "name": "Exam1",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Exam1.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
